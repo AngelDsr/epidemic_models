@@ -11,8 +11,8 @@
 
 # Descrição do projeto 
 
-Projeto desenvolvido como trabalho final da disciplina de Computação Científica e Análise de Dados da UFRJ. Como tema, foi escolhido trabalhar com modelos epidemiológicos, usando os conhecimentos obtidos durante o curso.
-Para o projeto, foram construídos 2 simuladores de como a população é distribuída em função do tempo em cada um dos modelos utilizados.
+Projeto desenvolvido como trabalho final da disciplina de Computação Científica e Análise de Dados da UFRJ. Como tema, foi escolhido trabalhar com modelos epidemiológicos, usando os conhecimentos obtidos durante o curso. Para o projeto, foram construídos 2 simuladores de como a população é distribuída em função do tempo em cada um dos modelos utilizados.
+
 Os gráficos para que os resultados da simulação sejam exibidos possuem um caráter interativo, sendo possível mudar alguns parâmetros que influenciam na simulação.
 Os modelos trabalhados foram SIR e SIS.
 
@@ -31,7 +31,8 @@ Você pode acessar o código fonte do projeto ou baixá-lo.
 # 🛠️ Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir o terminal e acessar o a pasta raíz do projeto. Após isso, basta executar o seguinte comando:
-	´python <NomeDoPrograma>´
+
+	´ python <NomeDoPrograma> ´
 
 Onde <NomeDoPrograma> é o programa que você deseja executar (´sir_model.py´ ou ´sis_model.py´ ).
 
