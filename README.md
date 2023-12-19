@@ -32,7 +32,7 @@ Você pode acessar o código fonte do projeto ou baixá-lo.
 
 Após baixar o projeto, você pode abrir o terminal e acessar o a pasta raíz do projeto. Após isso, basta executar o seguinte comando:
 
-	- ´ python <NomeDoPrograma> ´
+	- python <NomeDoPrograma>
 
 Onde <NomeDoPrograma> é o programa que você deseja executar (´sir_model.py´ ou ´sis_model.py´ ).
 
